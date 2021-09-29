@@ -35,4 +35,7 @@ _Para mais exemplos, consulte a [Wiki][https://tailwindcss.com/]._
 
 ## Observação
 
-Versão atual lida com um problema com SVG.
+<h4 align="center">
+	🚧  Spotify 🚀 Em construção...  🚧
+    🚧  Atual versão apresenta problemas na renderização de SVG. 🚧
+</h4>
