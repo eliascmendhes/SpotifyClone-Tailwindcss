@@ -1,5 +1,42 @@
-# SpotifyClone-Tailwindcss
-Spotify Clone usando Tailwindcss
-!--AVISO--!
+# SpotifyClone
+> Projeto Spotify Clone usando TailwindCss.
 
-PRECISO RESOLVER O PROBLEMA DAS IMAGENS SVG QUE NÃO APARECEM NO SITE.
+[![NPM Version][npm-image]][npm-url]
+
+
+De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+
+![](src/img/spotify-logo.png)
+
+## Configuração de ambiente para desenvolvimento
+
+Windows:
+
+```sh
+npm init -y
+npm install tailwindcss
+```
+## Para inicializar o TailwindCss
+```sh
+npx tailwindcss init
+```
+Esse comando cria o arquivo tailwind.config.js
+
+
+## Comando de Build TailwindCss
+```sh
+npx tailwindcss build styles.css -o src/css/styles.css
+```
+## Exemplo de uso
+
+O Tailwind Css é um framwork desenvolvido para maximizar o potencial do CSS, de forma simplificada e intuitiva.
+
+_Para mais exemplos, consulte a [Wiki][https://tailwindcss.com/]._
+
+## Meta
+
+SideralAmity – [@SideralAmity](https://twitter.com/SideralAmity)
+
+
+
+[https://github.com/eliascmendhes](https://github.com/eliascmendhes)
