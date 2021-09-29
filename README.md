@@ -33,10 +33,6 @@ O Tailwind Css é um framwork desenvolvido para maximizar o potencial do CSS, de
 
 _Para mais exemplos, consulte a [Wiki][https://tailwindcss.com/]._
 
-## Meta
+## Observação
 
-SideralAmity – [@SideralAmity](https://twitter.com/SideralAmity)
-
-
-
-[https://github.com/eliascmendhes](https://github.com/eliascmendhes)
+Versão atual lida com um problema com SVG.
